@@ -262,16 +262,13 @@
                 }
                 /*** Search Box End ***/
                 .gallary {
-                    margin-top: 40px;
                     margin-bottom: 30px;
-                    top: auto;
                 }
                 .gallary .gallary-content {
                     flex-direction: column;
                 }
                 .gallary-content .gallary-item {
                     width: 100%;
-                    margin-bottom: 15px;
                 }
                 .sub-one {
                     margin-bottom: 60px;
@@ -284,7 +281,6 @@
                 }
                 .banners-content .banner {
                     width: 100%;
-                    margin-bottom: 15px;
                 }
                 .sub-two {
                     margin-bottom: 50px;
@@ -745,7 +741,6 @@
                     bottom: 20px;
                 }
                 .gallary {
-                    margin-top: 40px;
                     margin-bottom: 30px;
                     top: auto;
                 }
@@ -754,7 +749,6 @@
                 }
                 .gallary-content .gallary-item {
                     width: 100%;
-                    margin-bottom: 15px;
                 }
                 .sub-one {
                     margin-bottom: 60px;
@@ -767,7 +761,6 @@
                 }
                 .banners-content .banner {
                     width: 100%;
-                    margin-bottom: 15px;
                 }
                 .sub-two {
                     margin-bottom: 50px;
